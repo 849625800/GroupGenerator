@@ -6,9 +6,6 @@
 
 - **CS5170ProjectSlides.pdf**: The slides of the presentation.
 
-- **CS5170ProjectVideo.mp4**: The demo of this project.
-
-- **TeamNames.rtf**: Members of the development team.
 
 # How to run:
 
@@ -19,3 +16,7 @@
 - Go to **IPywidgets Pseudo Interactive UI** 
 
 - Run all the cells below.
+
+# Video Demo
+
+- https://drive.google.com/file/d/1R_Mpe1BK9ugS6oZcVNuFKcZU1M2eb69k/view?usp=sharing
